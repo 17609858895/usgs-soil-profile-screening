@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "Appendix_2b_Top5_18Sept2013.txt",
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_2b_Top5_18Sept2013.txt",
+    "sha256": "e831095cba4549a87144804aa1ccb38e07d44550ab91b27390b84fc1dbdbc894",
+    "bytes": 1450062
+  },
+  {
+    "filename": "Appendix_3b_Ahorizon_18Sept2013.txt",
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_3b_Ahorizon_18Sept2013.txt",
+    "sha256": "462821c1164b5b4c27905a3ea62a22fa3f6172da09125d8f80ec5b2f6a69a202",
+    "bytes": 1987189
+  },
+  {
+    "filename": "Appendix_4b_Chorizon_18Sept2013.txt",
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_4b_Chorizon_18Sept2013.txt",
+    "sha256": "4aa8080f81f690587f762300bada16e33e376eea0003243d5333b47c78b4c90c",
+    "bytes": 1996147
+  }
+]

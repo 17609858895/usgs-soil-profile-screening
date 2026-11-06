@@ -1,0 +1,73 @@
+{
+  "randomness": "Fixed seeds and repetition-specific offsets are preserved in each analysis script.",
+  "main_national_screen": {
+    "source_scores": "s14_national_crossconformal.py",
+    "main_variant": "cleaned_labelled",
+    "spatial_groups": 150,
+    "folds": 5,
+    "q": 0.1,
+    "reference_cleaning": {
+      "q": 0.01,
+      "iterate": true,
+      "max_iterations": 10,
+      "tail_band": [
+        0.85,
+        0.97
+      ]
+    },
+    "label_candidates": 50,
+    "source_match_prevalence_cap": 0.05
+  },
+  "spatial_background": {
+    "groups": 120,
+    "folds": 5,
+    "model": {
+      "n_estimators": 300,
+      "learning_rate": 0.05,
+      "num_leaves": 31,
+      "min_child_samples": 20
+    }
+  },
+  "reference_simulation": {
+    "repetitions": 30,
+    "selection_reps": [
+      0,
+      9
+    ],
+    "intermediate_reps": [
+      10,
+      19
+    ],
+    "confirmation_reps": [
+      20,
+      29
+    ],
+    "model_seed_offset": 300,
+    "contamination_seed_offset": 2000
+  },
+  "national_output": {
+    "element_site_pairs": 33,
+    "unique_sites": 31,
+    "element_counts": {
+      "Sb": 16,
+      "Pb": 7,
+      "Zn": 6,
+      "Cd": 3,
+      "Se": 1
+    }
+  },
+  "release_changes": [
+    {
+      "file": "load_ds801.py",
+      "change": "Read official TXT files from portable data_raw directory."
+    },
+    {
+      "file": "s22_evidence_labels.py",
+      "change": "Correct interpretation of rule-match prevalence; rename descriptive output expected_rule_matches. Numerical rules unchanged."
+    },
+    {
+      "file": "pacd.py",
+      "change": "Conservative count>= handling of tied leave-one-out scores, synchronized with source. All 96 national reference sets were tie-free; original and corrected cleaning masks were identical."
+    }
+  ]
+}

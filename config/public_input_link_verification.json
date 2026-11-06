@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_2b_Top5_18Sept2013.txt",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_3b_Ahorizon_18Sept2013.txt",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://pubs.usgs.gov/ds/801/downloads/Appendix_4b_Chorizon_18Sept2013.txt",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://mrdata.usgs.gov/mrds/mrds-csv.zip",
+    "status": 206,
+    "first_bytes_read": 1024,
+    "content_type": "application/zip"
+  },
+  {
+    "url": "https://semspub.epa.gov/work/HQ/406370.pdf",
+    "status": 206,
+    "first_bytes_read": 1024,
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://semspub.epa.gov/work/HQ/406315.xlsx",
+    "status": 206,
+    "first_bytes_read": 1024,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  {
+    "url": "https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/1988_US/csv",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "binary/octet-stream"
+  },
+  {
+    "url": "https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/1995_US/csv",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "binary/octet-stream"
+  },
+  {
+    "url": "https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2000_US/csv",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "binary/octet-stream"
+  },
+  {
+    "url": "https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2005_US/csv",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "binary/octet-stream"
+  },
+  {
+    "url": "https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2010_US/csv",
+    "status": 200,
+    "first_bytes_read": 1024,
+    "content_type": "binary/octet-stream"
+  }
+]

@@ -1,0 +1,113 @@
+target,method,subset,n,geogenic_share,median_top5_over_C
+Pb,PACD (BH q=0.10),all flagged,7,0.0,9.453551912568306
+Pb,PACD (BH q=0.10),flagged within 10 km of worked,1,0.0,12.468619246861923
+Pb,Igeo > 1,all flagged,178,0.1516853932584269,3.7493645262364255
+Pb,Igeo > 1,flagged within 10 km of worked,32,0.375,2.379971564145993
+Pb,EF > 2,all flagged,689,0.0087082728592162,2.266666666666666
+Pb,EF > 2,flagged within 10 km of worked,47,0.0638297872340425,2.313304721030044
+Pb,Median + 2MAD,all flagged,260,0.1192307692307692,3.047893294230035
+Pb,Median + 2MAD,flagged within 10 km of worked,46,0.3043478260869565,1.8709271243813503
+Pb,top-50: PACD score,all flagged,50,0.02,6.118472354700033
+Pb,top-50: PACD score,flagged within 10 km of worked,7,0.1428571428571428,4.369747899159662
+Pb,top-50: Concentration (Igeo/MAD order),all flagged,50,0.32,7.130760083027764
+Pb,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,11,0.7272727272727273,3.6861313868613146
+Pb,top-50: EF,all flagged,50,0.02,10.338124950172542
+Pb,top-50: EF,flagged within 10 km of worked,3,0.3333333333333333,12.468619246861923
+Pb,top-50: C horizon (geology only),all flagged,50,0.88,0.8139602162115447
+Pb,top-50: C horizon (geology only),flagged within 10 km of worked,18,0.8888888888888888,1.006256216310505
+Zn,PACD (BH q=0.10),all flagged,6,0.0,4.980238132359802
+Zn,PACD (BH q=0.10),flagged within 10 km of worked,0,,
+Zn,Igeo > 1,all flagged,45,0.2666666666666666,2.464968152866243
+Zn,Igeo > 1,flagged within 10 km of worked,14,0.4285714285714285,1.7052342605734965
+Zn,EF > 2,all flagged,442,0.004524886877828,2.170669379605185
+Zn,EF > 2,flagged within 10 km of worked,26,0.0384615384615384,1.903600110262379
+Zn,Median + 2MAD,all flagged,65,0.2,2.464968152866243
+Zn,Median + 2MAD,flagged within 10 km of worked,15,0.4,1.8815331010452965
+Zn,top-50: PACD score,all flagged,50,0.02,3.237857459838613
+Zn,top-50: PACD score,flagged within 10 km of worked,5,0.2,3.571428571428572
+Zn,top-50: Concentration (Igeo/MAD order),all flagged,50,0.26,2.422596085305736
+Zn,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,14,0.4285714285714285,1.7052342605734965
+Zn,top-50: EF,all flagged,50,0.0,8.369291788738463
+Zn,top-50: EF,flagged within 10 km of worked,2,0.0,16.975786871349374
+Zn,top-50: C horizon (geology only),all flagged,50,0.48,0.8441623122173327
+Zn,top-50: C horizon (geology only),flagged within 10 km of worked,13,0.5384615384615384,1.0410447761194024
+Cd,PACD (BH q=0.10),all flagged,3,0.0,10.0
+Cd,PACD (BH q=0.10),flagged within 10 km of worked,0,,
+Cd,Igeo > 1,all flagged,1839,0.4866775421424687,1.4999999999999996
+Cd,Igeo > 1,flagged within 10 km of worked,138,0.463768115942029,2.0
+Cd,EF > 2,all flagged,1676,0.0519093078758949,3.0
+Cd,EF > 2,flagged within 10 km of worked,133,0.1203007518796992,4.0
+Cd,Median + 2MAD,all flagged,49,0.7755102040816326,2.571428571428572
+Cd,Median + 2MAD,flagged within 10 km of worked,14,0.8571428571428571,3.654742515847437
+Cd,top-50: PACD score,all flagged,50,0.2,6.708203932499368
+Cd,top-50: PACD score,flagged within 10 km of worked,6,0.1666666666666666,19.899748742132395
+Cd,top-50: Concentration (Igeo/MAD order),all flagged,50,0.78,2.7774602993176543
+Cd,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,14,0.8571428571428571,3.654742515847437
+Cd,top-50: EF,all flagged,50,0.02,17.999999999999996
+Cd,top-50: EF,flagged within 10 km of worked,8,0.125,22.0
+Cd,top-50: C horizon (geology only),all flagged,50,1.0,0.9880235200593536
+Cd,top-50: C horizon (geology only),flagged within 10 km of worked,10,1.0,1.1720654306553766
+Sb,PACD (BH q=0.10),all flagged,16,0.125,9.197009309398036
+Sb,PACD (BH q=0.10),flagged within 10 km of worked,1,1.0,11.871921182266012
+Sb,Igeo > 1,all flagged,372,0.6182795698924731,1.161850269998699
+Sb,Igeo > 1,flagged within 10 km of worked,21,0.8095238095238095,1.174468085106383
+Sb,EF > 2,all flagged,440,0.0204545454545454,2.5448652784998824
+Sb,EF > 2,flagged within 10 km of worked,6,0.3333333333333333,2.4717484977324053
+Sb,Median + 2MAD,all flagged,138,0.7536231884057971,1.2251251974224602
+Sb,Median + 2MAD,flagged within 10 km of worked,12,1.0,1.2086127092046748
+Sb,top-50: PACD score,all flagged,50,0.16,3.2745074300704453
+Sb,top-50: PACD score,flagged within 10 km of worked,1,1.0,11.871921182266012
+Sb,top-50: Concentration (Igeo/MAD order),all flagged,50,0.68,1.6848530145530345
+Sb,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,5,1.0,1.3194221508828252
+Sb,top-50: EF,all flagged,50,0.02,11.935788796187373
+Sb,top-50: EF,flagged within 10 km of worked,1,1.0,11.871921182266012
+Sb,top-50: C horizon (geology only),all flagged,50,1.0,0.7098012535044421
+Sb,top-50: C horizon (geology only),flagged within 10 km of worked,5,1.0,1.3194221508828252
+Cu,PACD (BH q=0.10),all flagged,0,,
+Cu,PACD (BH q=0.10),flagged within 10 km of worked,0,,
+Cu,Igeo > 1,all flagged,47,0.5319148936170213,1.2899786780383802
+Cu,Igeo > 1,flagged within 10 km of worked,16,0.5625,1.2234631383622998
+Cu,EF > 2,all flagged,370,0.0,2.576883363455253
+Cu,EF > 2,flagged within 10 km of worked,23,0.0,2.545454545454545
+Cu,Median + 2MAD,all flagged,118,0.3728813559322034,1.1045128536496924
+Cu,Median + 2MAD,flagged within 10 km of worked,35,0.4285714285714285,1.060522696011004
+Cu,top-50: PACD score,all flagged,50,0.0,4.563722433076653
+Cu,top-50: PACD score,flagged within 10 km of worked,6,0.0,4.562400765831719
+Cu,top-50: Concentration (Igeo/MAD order),all flagged,50,0.5,1.2991021534912692
+Cu,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,18,0.5,1.2991021534912692
+Cu,top-50: EF,all flagged,50,0.0,8.758097596183404
+Cu,top-50: EF,flagged within 10 km of worked,2,0.0,12.884456394813938
+Cu,top-50: C horizon (geology only),all flagged,50,1.0,0.5407769461700568
+Cu,top-50: C horizon (geology only),flagged within 10 km of worked,16,1.0,0.578929789340114
+sig_mining,PACD (BH q=0.10),all flagged,0,,
+sig_mining,PACD (BH q=0.10),flagged within 10 km of worked,0,,
+sig_mining,Igeo > 1,all flagged,2058,0.5549076773566569,1.2267786810712578
+sig_mining,Igeo > 1,flagged within 10 km of worked,252,0.6626984126984127,1.2536680611493398
+sig_mining,EF > 2,all flagged,2566,0.2007014809041309,1.3403940744817373
+sig_mining,EF > 2,flagged within 10 km of worked,263,0.3612167300380228,1.370635619066225
+sig_mining,Median + 2MAD,all flagged,461,0.544468546637744,1.5395792127418242
+sig_mining,Median + 2MAD,flagged within 10 km of worked,116,0.8017241379310345,1.346965321091157
+sig_mining,top-50: PACD score,all flagged,50,0.24,3.126633426595881
+sig_mining,top-50: PACD score,flagged within 10 km of worked,10,0.4,3.130103573304128
+sig_mining,top-50: Concentration (Igeo/MAD order),all flagged,50,0.66,2.8277111450756465
+sig_mining,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,21,0.8571428571428571,1.7932860126343495
+sig_mining,top-50: EF,all flagged,50,0.08,3.743170689942396
+sig_mining,top-50: EF,flagged within 10 km of worked,6,0.5,5.778790961391728
+sig_mining,top-50: C horizon (geology only),all flagged,50,1.0,0.8383884847065016
+sig_mining,top-50: C horizon (geology only),flagged within 10 km of worked,22,1.0,0.9516960468100734
+any_max,PACD (BH q=0.10),all flagged,3,0.0,2.7553583697549358
+any_max,PACD (BH q=0.10),flagged within 10 km of worked,0,,
+any_max,Igeo > 1,all flagged,2997,0.6920253586920253,1.138617654397538
+any_max,Igeo > 1,flagged within 10 km of worked,452,0.7433628318584071,1.118485189981535
+any_max,EF > 2,all flagged,3264,0.5,1.1642130328722713
+any_max,EF > 2,flagged within 10 km of worked,464,0.5280172413793104,1.1639744118847457
+any_max,Median + 2MAD,all flagged,2905,0.672289156626506,1.132977234181376
+any_max,Median + 2MAD,flagged within 10 km of worked,398,0.7386934673366834,1.114355921939994
+any_max,top-50: PACD score,all flagged,50,0.42,1.8684942569772216
+any_max,top-50: PACD score,flagged within 10 km of worked,7,0.4285714285714285,1.6854196063880846
+any_max,top-50: Concentration (Igeo/MAD order),all flagged,50,0.78,1.6668723646613826
+any_max,top-50: Concentration (Igeo/MAD order),flagged within 10 km of worked,22,0.9090909090909092,1.612637035236996
+any_max,top-50: EF,all flagged,50,0.36,2.2481125683560146
+any_max,top-50: EF,flagged within 10 km of worked,6,0.3333333333333333,3.475959631345668
+any_max,top-50: C horizon (geology only),all flagged,50,1.0,0.988530549508107
+any_max,top-50: C horizon (geology only),flagged within 10 km of worked,23,1.0,1.1042938317339253

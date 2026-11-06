@@ -1,0 +1,7 @@
+{
+  "reference_sets": 96,
+  "tied_reference_sets": 0,
+  "main_changed_reference_sets": 0,
+  "single_pass_changed_reference_sets": 0,
+  "verification": "Six national reference sets for each of 16 scores were checked. Conservative tie handling changed neither main nor single-pass cleaning masks; no tied scores occurred in these reference sets."
+}

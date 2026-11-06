@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data_raw/*
+data_derived/*
+data_external/*
+tables/*
+!data_raw/.gitkeep
+!data_derived/.gitkeep
+!data_external/.gitkeep
+!tables/.gitkeep
+smoke_report.json

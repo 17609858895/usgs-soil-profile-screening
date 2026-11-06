@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "seed": 20261107,
+  "syntax_checked_modules": [
+    "common.py",
+    "download_inputs.py",
+    "load_ds801.py",
+    "pacd.py",
+    "prepare_external.py",
+    "s01_build_dataset.py",
+    "s05_benchmark20.py",
+    "s06_injection_v2.py",
+    "s07_inheritance_spectrum.py",
+    "s08_dml_v2.py",
+    "s09_national_discovery.py",
+    "s10_dual_anchor.py",
+    "s11_dml_lithogenic_index.py",
+    "s12_injection_v3.py",
+    "s13_censored_anchor.py",
+    "s14_national_crossconformal.py",
+    "s15_contaminated_reference.py",
+    "s16_national_variants.py",
+    "s17_mrds_validation.py",
+    "s18_depth_attenuation.py",
+    "s19_trim_comparison.py",
+    "s20_clean_variants.py",
+    "s21_label_noise.py",
+    "s22_evidence_labels.py",
+    "s23_external_sources.py"
+  ],
+  "dependency_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.1",
+    "lightgbm": "4.6.0",
+    "joblib": "1.4.2",
+    "pyarrow": "16.1.0",
+    "openpyxl": "3.1.5"
+  },
+  "optional_imports": [],
+  "synthetic_validation_r2": null,
+  "frozen_element_site_pairs": 33,
+  "frozen_unique_sites": 31,
+  "frozen_element_counts": {
+    "Sb": 16,
+    "Pb": 7,
+    "Zn": 6,
+    "Cd": 3,
+    "Se": 1
+  },
+  "scope": "Core-function, dependency, syntax and frozen-summary checks. A non-null synthetic_validation_r2 additionally records the optional model-fit check. Complete analyses not rerun."
+}

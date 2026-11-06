@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "rows": 4857,
+  "columns": 320,
+  "check": "Portable release parser reproduced the complete existing DS801 derived input table exactly from the three official TXT inputs.",
+  "scope": "Input parsing only; no full model rerun."
+}
